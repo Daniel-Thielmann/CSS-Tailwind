@@ -1,4 +1,4 @@
-import { Home as HomeIcon, Search, Library, ChevronLeft, ChevronRight, Play} from 'lucide-react'
+import { Home as HomeIcon, Search, Library, ChevronLeft, ChevronRight, Play } from 'lucide-react'
 import Image from 'next/image';
 
 export default function Home() {
@@ -55,44 +55,75 @@ export default function Home() {
               <strong>Reggae 4:20</strong>
               <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
                 <Play />
-              </button>            
+              </button>
             </a>
             <a href='#' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors'>
               <Image src="/album.jpg" width={120} height={120} alt="Capa album Bob Marley" />
-                <strong>Reggae 4:20</strong>
-                <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
+              <strong>Reggae 4:20</strong>
+              <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
                 <Play />
-              </button>         
+              </button>
             </a>
             <a href='#' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors'>
               <Image src="/album.jpg" width={120} height={120} alt="Capa album Bob Marley" />
-                <strong>Reggae 4:20</strong>
-                <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
+              <strong>Reggae 4:20</strong>
+              <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
                 <Play />
-              </button>         
+              </button>
             </a>
             <a href='#' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors'>
               <Image src="/album.jpg" width={120} height={120} alt="Capa album Bob Marley" />
-                <strong>Reggae 4:20</strong>
-                <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
+              <strong>Reggae 4:20</strong>
+              <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
                 <Play />
-              </button>         
+              </button>
             </a>
             <a href='#' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors'>
               <Image src="/album.jpg" width={120} height={120} alt="Capa album Bob Marley" />
-                <strong>Reggae 4:20</strong>
-                <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
+              <strong>Reggae 4:20</strong>
+              <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
                 <Play />
-              </button>         
+              </button>
             </a>
             <a href='#' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors'>
               <Image src="/album.jpg" width={120} height={120} alt="Capa album Bob Marley" />
-                <strong>Reggae 4:20</strong>
-                <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
+              <strong>Reggae 4:20</strong>
+              <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
                 <Play />
-              </button>         
+              </button>
             </a>
           </div>
+
+          <h2 className='font-semibold text-2xl mt-10'>Made for Daniel Thielmann</h2>
+
+          <div className='grid grid-cols-8 gap-4 mt-4'>
+            <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
+              <Image src="/album.jpg" className="w-full" width={120} height={120} alt="Capa album Bob Marley"/>
+              <strong className='font-semibold'>Daily Mix 1</strong>
+              <span className='text-sm text-zinc-400'>Bob Marley calling to smok</span>
+            </a>
+            <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
+              <Image src="/album.jpg" className="w-full" width={120} height={120} alt="Capa album Bob Marley"/>
+              <strong className='font-semibold'>Daily Mix 1</strong>
+              <span className='text-sm text-zinc-400'>Bob Marley calling to smok</span>
+            </a>
+            <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
+              <Image src="/album.jpg" className="w-full" width={120} height={120} alt="Capa album Bob Marley"/>
+              <strong className='font-semibold'>Daily Mix 1</strong>
+              <span className='text-sm text-zinc-400'>Bob Marley calling to smok</span>
+            </a>
+            <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
+              <Image src="/album.jpg" className="w-full" width={120} height={120} alt="Capa album Bob Marley"/>
+              <strong className='font-semibold'>Daily Mix 1</strong>
+              <span className='text-sm text-zinc-400'>Bob Marley calling to smok</span>
+            </a>
+            <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
+              <Image src="/album.jpg" className="w-full" width={120} height={120} alt="Capa album Bob Marley"/>
+              <strong className='font-semibold'>Daily Mix 1</strong>
+              <span className='text-sm text-zinc-400'>Bob Marley calling to smok</span>
+            </a>
+          </div>
+
         </main>
       </div>
       <footer className="bg-zinc-800 border-t border-zinc-700 p-6">
