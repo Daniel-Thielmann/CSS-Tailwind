@@ -30,36 +30,36 @@ export default function Home() {
               </button>
             </a>
             <a href='#' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors'>
-              <Image src="/album.jpg" width={120} height={120} alt="Capa album Bob Marley" />
-              <strong>Reggae 4:20</strong>
+              <Image src="/album2.jpg" width={120} height={120} alt="Capa album Bob Marley" />
+              <strong>HouseTronika</strong>
               <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
                 <Play />
               </button>
             </a>
             <a href='#' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors'>
-              <Image src="/album.jpg" width={120} height={120} alt="Capa album Bob Marley" />
-              <strong>Reggae 4:20</strong>
+              <Image src="/album3.jpg" width={120} height={120} alt="Capa album Bob Marley" />
+              <strong>TechTronika</strong>
               <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
                 <Play />
               </button>
             </a>
             <a href='#' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors'>
-              <Image src="/album.jpg" width={120} height={120} alt="Capa album Bob Marley" />
-              <strong>Reggae 4:20</strong>
+              <Image src="/matue.jpg" width={120} height={120} alt="Capa album Bob Marley" />
+              <strong>Rap Nacional</strong>
               <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
                 <Play />
               </button>
             </a>
             <a href='#' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors'>
-              <Image src="/album.jpg" width={120} height={120} alt="Capa album Bob Marley" />
-              <strong>Reggae 4:20</strong>
+              <Image src="/chorao.jpg" width={80} height={100} alt="Capa album Bob Marley" />
+              <strong>Brazuca</strong>
               <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
                 <Play />
               </button>
             </a>
             <a href='#' className='bg-white/5 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors'>
-              <Image src="/album.jpg" width={120} height={120} alt="Capa album Bob Marley" />
-              <strong>Reggae 4:20</strong>
+              <Image src="/matalica.jpg" width={120} height={120} alt="Capa album Bob Marley" />
+              <strong>Rock Classics</strong>
               <button className='w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible'>
                 <Play />
               </button>
@@ -76,22 +76,32 @@ export default function Home() {
             </a>
             <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
               <Image src="/album.jpg" className="w-full" width={120} height={120} alt="Capa album Bob Marley" />
-              <strong className='font-semibold'>Daily Mix 1</strong>
+              <strong className='font-semibold'>Daily Mix 2</strong>
               <span className='text-sm text-zinc-400'>Bob Marley calling to smok</span>
             </a>
             <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
               <Image src="/album.jpg" className="w-full" width={120} height={120} alt="Capa album Bob Marley" />
-              <strong className='font-semibold'>Daily Mix 1</strong>
+              <strong className='font-semibold'>Daily Mix 3</strong>
               <span className='text-sm text-zinc-400'>Bob Marley calling to smok</span>
             </a>
             <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
               <Image src="/album.jpg" className="w-full" width={120} height={120} alt="Capa album Bob Marley" />
-              <strong className='font-semibold'>Daily Mix 1</strong>
+              <strong className='font-semibold'>Daily Mix 4</strong>
               <span className='text-sm text-zinc-400'>Bob Marley calling to smok</span>
             </a>
             <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
               <Image src="/album.jpg" className="w-full" width={120} height={120} alt="Capa album Bob Marley" />
-              <strong className='font-semibold'>Daily Mix 1</strong>
+              <strong className='font-semibold'>Daily Mix 5</strong>
+              <span className='text-sm text-zinc-400'>Bob Marley calling to smok</span>
+            </a>
+            <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
+              <Image src="/album.jpg" className="w-full" width={120} height={120} alt="Capa album Bob Marley" />
+              <strong className='font-semibold'>Daily Mix 6</strong>
+              <span className='text-sm text-zinc-400'>Bob Marley calling to smok</span>
+            </a>
+            <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
+              <Image src="/album.jpg" className="w-full" width={120} height={120} alt="Capa album Bob Marley" />
+              <strong className='font-semibold'>Daily Mix 7</strong>
               <span className='text-sm text-zinc-400'>Bob Marley calling to smok</span>
             </a>
           </div>
